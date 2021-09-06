@@ -1,1 +1,1 @@
-{"open": 0, "url": "https:\/\/www.aelottery.info\/#\/lotto01"}
+{"open": 1, "url": "https:\/\/www.aelottery.info\/#\/lotto01"}
